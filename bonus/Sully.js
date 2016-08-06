@@ -1,5 +1,5 @@
 var fs = require('fs');
-var cp = require("child_process");
+var cp = require('child_process');
 var i = 5;
 /* comment outside */
 (function main() {
